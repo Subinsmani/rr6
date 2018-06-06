@@ -1,0 +1,12 @@
+{
+	"rom_name":"Resurrection Remix 6.0.0",
+	"platform":"api27",
+	"device":"osprey",
+	"build":"Subinsmani",
+	"status":"Official",
+	"description":"Resurrection Remix the ROM has been based on CM,slim.omni and original Remix ROM builds, this creates an awesome combination of performance, customization, power and the most new features, brought directly to your Device",
+	"page":"https://sourceforge.net/projects/resurrectionremix-oreo/files/osprey/",
+	"xda":"https://forum.xda-developers.com/2015-moto-g/development/rom-resurrection-remix-v6-0-0-t3767667",
+	"donate":{"Developer":"https://www.paypal.me/SubinsMani"},
+	"adUnitId":""
+}
